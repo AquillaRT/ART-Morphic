@@ -1,3 +1,6 @@
+"
+PBEの勉強用
+"
 Class {
 	#name : 'CrossMorph',
 	#superclass : 'Morph',
